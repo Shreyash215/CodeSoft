@@ -1,2 +1,2 @@
-# CodeSoft T1
-TITANIC SURVIVAL PREDICTION
+# CodeSoft
+
